@@ -30,13 +30,13 @@ AES-256 şifreleme, IP spoofing saldırı simülasyonu ve sniffer tabanlı anoma
 ## Klasör Yapısı
 	Secure-File-Transfer-System/
 	├── .gitignore
-	├── requirements.txt
 	├── Bilgisayar-Aglari-Dönem-Projesi-Final-Raporu_21360859077.pdf
+	├── README.md
+	├── client.ipynb
 	├── config.py
 	├── ip-spoof-simulation.ipynb
-	├── client.ipynb 
-	├── server.ipynb
-	└── README.md
+	├── requirements.txt
+	└── server.ipynb
 
 ---
 
